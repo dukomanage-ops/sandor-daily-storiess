@@ -1,0 +1,44 @@
+{
+  "date": "2026-10-20",
+  "slides": [
+    {
+      "type": "cover",
+      "label": "MIAMI MARKET BRIEF · OCT 20",
+      "title_lines": ["3 things", "moving Florida", "deals today."],
+      "body": "Appraisals, FHA financing and what buyers want in a floor plan. Tap through.",
+      "source": "Source: Florida Realtors daily news"
+    },
+    {
+      "type": "point",
+      "label": "APPRAISALS",
+      "hero": "45–50",
+      "hero_caption": "pages in some new appraisal reports",
+      "headline": "Appraisals are getting a lot more detailed.",
+      "body": "More property data means more room for delays. Ask your lender if their appraiser is ready for the new format, and set financing deadlines you can actually hit."
+    },
+    {
+      "type": "point",
+      "label": "FINANCING",
+      "hero": "Jan.",
+      "hero_caption": "new FHA credit-scoring options arrive",
+      "headline": "HUD wants more Floridians owning homes.",
+      "body": "New scoring options could help some renters with thin credit files qualify for an FHA loan. More building, over time, means more choices for budget buyers."
+    },
+    {
+      "type": "point",
+      "label": "BUYER TRENDS",
+      "hero": "2",
+      "hero_caption": "home offices — what buyers are asking for now",
+      "headline": "One home office isn't enough anymore.",
+      "body": "New-construction buyers want flex space for work, hobbies and kids. If you're selling, show how a bonus room can do more than one job."
+    },
+    {
+      "type": "cta",
+      "label": "THE FULL BRIEF",
+      "title_lines": ["Want the", "full report?"],
+      "keyword": "REPORT",
+      "body": "Reply REPORT to this story and I'll send you today's full market brief.",
+      "signoff": "Let's run the numbers."
+    }
+  ]
+}
